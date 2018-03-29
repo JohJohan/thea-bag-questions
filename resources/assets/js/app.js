@@ -6,6 +6,7 @@
  */
 
 require('./bootstrap');
+require('./swipe');
 
 window.Vue = require('vue');
 
